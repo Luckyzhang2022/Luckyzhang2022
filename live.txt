@@ -1,3 +1,86 @@
+央卫秒开,#genre#
+CCTV-1,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078203.m3u8
+CCTV-2,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024075403.m3u8
+CCTV-3,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024068503.m3u8
+CCTV-4,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078303.m3u8
+CCTV-5,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078403.m3u8
+CCTV5+,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8
+CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+CCTV-7,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024072003.m3u8
+CCTV-8,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078503.m3u8
+CCTV-9,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078603.m3u8
+CCTV-10,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078703.m3u8
+CCTV-11,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078803.m3u8
+CCTV-12,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078903.m3u8
+CCTV-13,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024079003.m3u8
+CCTV-14,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024079103.m3u8
+CCTV-15,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024079203.m3u8
+CCTV-16,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024079303.m3u8
+CCTV-17,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024079503.m3u8
+CCTV-4k,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024081303.m3u8
+CCTV-8k,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2020603421.m3u8
+CCTV-16-4K,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024083703.m3u8
+CGT英语,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2022575003.m3u8
+CGT纪录,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024182303.m3u8
+CGT西语,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024182103.m3u8
+CGT法语,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024181803.m3u8
+CGT阿语,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024182003.m3u8
+CGT俄语,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024181903.m3u8
+世界地理,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024172003.m3u8
+兵器科技,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024172103.m3u8
+第一剧场,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171803.m3u8
+怀旧剧场,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171903.m3u8
+风云剧场,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171703.m3u8
+风云音乐,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024163303.m3u8
+风云足球,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2012514203.m3u8
+女性时尚,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024172203.m3u8
+文化精品,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024172303.m3u8
+卫生健康,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024165203.m3u8
+央视台球,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024172403.m3u8
+高尔网球,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024166203.m3u8
+电视指南,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024172503.m3u8
+北京卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024052703.m3u8
+东方卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024054503.m3u8
+江苏卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171103.m3u8
+浙江卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024054703.m3u8
+湖南卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024054803.m3u8
+深圳卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061303.m3u8
+广东卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024060903.m3u8
+安徽卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171403.m3u8
+天津卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2019927003.m3u8
+东南卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061503.m3u8
+辽宁卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171303.m3u8
+海南卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024055603.m3u8
+江西卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061703.m3u8
+广西卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024060703.m3u8
+湖北卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171203.m3u8
+山东卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171603.m3u8
+贵州卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061603.m3u8
+四川卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061403.m3u8
+河南卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024059703.m3u8
+河北卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024171503.m3u8
+重庆卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061103.m3u8
+新疆卫视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2019927403.m3u8
+黑龙江视,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024061003.m3u8
+奥运频道,#genre#
+CCTV-奥林匹克,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024083703.m3u8#p3p://108.181.32.169:12221/642610a2000b33ebee0a7d6c26c160b2#p3p://108.181.20.159:31364/632350a5000deee324e2a2bc22a37dd9#P2p://generationnexxxt.com:19806/3bb4c4f6ec8d45db81ede1415820dba0
+CCTV-体育赛事,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8#p3p://108.181.20.159:31364/6323522b0000ad5c24e892c57ad041c7#p3p://108.181.32.169:12221/64260cbc00081417edfb42307c984dd4#P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
+CCTV-奥运体育,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024078403.m3u8#p3p://108.181.20.159:31364/62c2e10a000954acac332b30611a0e9d#p3p://108.181.32.169:12221/64260cb0000afd53edfb140f10811127#P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
+CCTV-4K超高清,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2024081303.m3u8
+CCTV-8K超高清,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/sx/2020603421.m3u8
+Mytv-奥运780台,p3p://108.181.32.169:12221/66a4c0bc0005542ecd8ee36d39f22f27 
+Mytv-奥运781台,p3p://108.181.32.169:12221/66a4c09f000b82cccd8e73ba4d0108f0 
+Mytv-奥运782台,p3p://108.181.32.169:12221/66a4c05a000925a2cd8d659733bf4cbb 
+Mytv-奥运783台,p3p://108.181.32.169:12221/66a4c03b000c857ccd8ced5c46fb1f90 
+Mytv-奥运784台,p3p://108.181.32.169:12221/66a4c021000ac66ecd8c87597073673e 
+Mytv-奥运801台,p3p://108.181.32.169:12221/66a4bfd60004fcaacd8b60e62dba635b 
+Mytv-奥运802台,p3p://108.181.32.169:12221/66a4bfb600099372cd8ae5125aa031f2 
+Mytv-奥运803台,p3p://108.181.32.169:12221/66a4bf97000685fbcd8a6b32635a6058 
+Mytv-奥运804台,p3p://108.181.32.169:12221/66a4bf77000304e3cd89ed4c57d21d09 
+Mytv-奥运805台,p3p://108.181.32.169:12221/66a4bf57000ab3dccd89724446374868 
+Mytv-奥运806台,p3p://108.181.32.169:12221/66a4bf3800089a25cd88f8a25b4a3937
+巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
+TVB奥运开幕式,https://c1.rrcdnbf3.com/video/2024niandi33jiebaliaoyunhuikaimushi/HD/index.m3u8
 央视,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-1 综合,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
@@ -8,7 +91,7 @@ CCTV-2 财经,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980001021
 CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3 综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
-CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-4 中文国际,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8              
 CCTV-4 中文国际,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?IAS
 CCTV-4 中文国际,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
 CCTV-5 体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -103,7 +186,7 @@ CCTV-4中文国际,http://39.134.63.11:6610/PLTV/88888888/224/3221226007/index.m
 CCTV-4中文国际,http://39.134.193.100:6610/030000001001/cctv-4/1.m3u8?i
 CCTV-4中文国际,http://111.40.196.9/PLTV/88888888/224/3221225557/index.m3u8
 CCTV-4中文国际,http://111.11.123.49:6610/000000001000/6529283685694841127/1.m3u8?Contentid=6529283685694841127&livemode=1&stbId=3&channel-id=bestzb
-CCTV-4中文国际,http://111.11.123.49:6610/000000001000/4719673858948437836/1.m3u8?Contentid=4719673858948437836&livemode=1&stbId=3&channel-id=wasusyt
+CCTV-4中文国际,http://111.11.123.49:6610/000000001000/4719673858948437836/1.m3u8?Contentid=4719673858948437836&livemode=1&stbId=3&channel-id=wasusyt 
 CCTV-4中文国际,http://111.11.123.49:6610/000000001000/8830950643842119430/1.m3u8?Contentid=8830950643842119430&livemode=1&stbId=3&channel-id=hnbblive
 CCTV-4中文国际,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225571/2/index.m3u8?fmt=ts2hls
 CCTV-4中文国际,http://39.134.65.149/PLTV/88888888/224/3221225797/1.m3u8
